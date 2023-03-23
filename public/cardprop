@@ -1,0 +1,13 @@
+otag:sweeper-creature,3
+otag:removal,5
+otag:draw,3
+otag:ramp,5
+otag:mana rock,5
+type:land,3
+type:planeswalker,1
+type:enchantment,1
+type:artifact,1
+basic,30
+edhrec:top-creatures,3
+edhrec:top-lands,3
+edhrec:top-utilityartifacts,1
